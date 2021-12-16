@@ -15,10 +15,10 @@ int main(){
     pn.set_n(n);
 
     //obtener Pn(t)
-    pn.get_P(t)
+    value=pn.get_P(t)
 
     //obtener derivada de Pn(t)
-    pn.get_DP(t)
+    value=pn.get_DP(t)
 
     //cambiar grado
     //pn.get_n(n)
