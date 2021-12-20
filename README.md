@@ -28,3 +28,6 @@ int main(){
     return 0;
 }
 ```
+# Referencia 
+
+Arfken, G. B., & Weber, H. J. (1999). Mathematical methods for physicists.
