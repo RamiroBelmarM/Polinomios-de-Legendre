@@ -14,15 +14,15 @@ int main(){
     //grado del polinomio
     pn.set_n(n);
 
-    //obtener Pn(t)
+    //obtener Pn(t) en algún punto t
     value=pn.get_P(t)
 
-    //obtener derivada de Pn(t)
+    //obtener derivada de Pn(t) en algún punto t
     value=pn.get_DP(t)
 
     //cambiar grado
-    //pn.get_n(n)
-    //cambiar rango normalizado alrededor de 0
+    //pn.set_n(n)
+    //cambiar rango normalizado alrededor de 0, |a| >0
     //pn.set_alpha(a)
 
     return 0;
